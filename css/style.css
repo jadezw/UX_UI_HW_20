@@ -26,10 +26,24 @@ h1 {
 
 h2 {
     font-weight: bold;
-    font-size: 30px; 
+    font-size: 30px;    
 }
 
+.content-container {
+    padding-left: 300px;
+}
 
+#problem-statement-content {
+    padding-right: 200px;
+}
+
+#combined {
+    padding-left: 500px;
+}
+
+#designs {
+    padding-left: 400px;
+}
 
 #email {
     padding-left: 12px;
